@@ -1,0 +1,2 @@
+# FinishedNetPro
+A DNS server and client for a simplified DNS protocol. The server and client both use a serialization API I wrote to deal with the simplified DNS protocol I was given. I was only given requirements sheets I had to adhere to for each part of the project and an IETF style protocol documentation page. Updates were made to the protocol and requirements partway through the project and I also had to refactor and modify the project to adhere to the new requirements or protocol changes.
